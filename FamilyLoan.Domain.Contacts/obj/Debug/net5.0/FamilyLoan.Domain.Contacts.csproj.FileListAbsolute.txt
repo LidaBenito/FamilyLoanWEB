@@ -1,0 +1,17 @@
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\FamilyLoan.Domain.Contacts.deps.json
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\FamilyLoan.Domain.Contacts.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\ref\FamilyLoan.Domain.Contacts.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\FamilyLoan.Domain.Contacts.pdb
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\FamilyLoan.Domain.Core.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\Sadr_Tools.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\FamilyLoan.Domain.Core.pdb
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\bin\Debug\net5.0\Sadr_Tools.pdb
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.csprojAssemblyReference.cache
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.GeneratedMSBuildEditorConfig.editorconfig
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.AssemblyInfoInputs.cache
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.AssemblyInfo.cs
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.csproj.CoreCompileInputs.cache
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.csproj.CopyComplete
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\ref\FamilyLoan.Domain.Contacts.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Contacts\obj\Debug\net5.0\FamilyLoan.Domain.Contacts.pdb

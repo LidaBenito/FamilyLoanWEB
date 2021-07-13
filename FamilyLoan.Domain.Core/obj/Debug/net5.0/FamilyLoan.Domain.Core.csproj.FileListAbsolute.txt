@@ -1,0 +1,15 @@
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\bin\Debug\net5.0\FamilyLoan.Domain.Core.deps.json
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\bin\Debug\net5.0\FamilyLoan.Domain.Core.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\bin\Debug\net5.0\ref\FamilyLoan.Domain.Core.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\bin\Debug\net5.0\FamilyLoan.Domain.Core.pdb
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\bin\Debug\net5.0\Sadr_Tools.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\bin\Debug\net5.0\Sadr_Tools.pdb
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.csprojAssemblyReference.cache
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.AssemblyInfoInputs.cache
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.AssemblyInfo.cs
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.csproj.CoreCompileInputs.cache
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.csproj.CopyComplete
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\ref\FamilyLoan.Domain.Core.dll
+M:\asp\nikamooz\familyloan\FamilyLoan\FamilyLoan.Domain.Core\obj\Debug\net5.0\FamilyLoan.Domain.Core.pdb

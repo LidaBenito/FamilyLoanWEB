@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\C#\Code Files\11\FamilyLoan2020\Sadr_Tools\Sadr_Tools.csproj" />
+    <ProjectReference Include="..\FamilyLoan.Domain.Contacts\FamilyLoan.Domain.Contacts.csproj" />
+    <ProjectReference Include="..\FamilyLoan.Domain.Core\FamilyLoan.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

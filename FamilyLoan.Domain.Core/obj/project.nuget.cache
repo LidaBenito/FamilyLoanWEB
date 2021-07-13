@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpv+5IkcWbR71v0cFpRKqRovxSya9nbnukz9H2jgE8Vl3NidY9Hh5P2ddKvpAP8uNGLTKcNcVfhjJb0Ma8HbOg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mis\\source\\repos\\maryambnito\\FamilyLoanWEB\\FamilyLoan.Domain.Core\\FamilyLoan.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\mis\\source\\C#\\Code Files\\11\\FamilyLoan2020\\Sadr_Tools\\Sadr_Tools.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\mis\\source\\C#\\Code Files\\11\\FamilyLoan2020\\Sadr_Tools\\Sadr_Tools.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
